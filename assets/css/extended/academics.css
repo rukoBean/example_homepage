@@ -21,9 +21,19 @@
     -webkit-line-clamp: 5;
 }
 
-.pub-entry .venue {
+.venue {
     margin-top: 0.5em;
-    color: var(--secondary);
+    color: #3498db;
+}
+
+.author-me {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.venue strong,
+.venue b {
+    color: #a67c00;
 }
 
 .pub-meta {

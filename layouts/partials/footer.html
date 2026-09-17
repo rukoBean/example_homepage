@@ -4,7 +4,10 @@
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
+<!--
         <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Params.Author }}</a></span>
+-->
+        <span>&copy; {{ now.Year }} {{ site.Params.Author }}</span>
         {{- end }}
 <!--       
         {{- print " · "}}

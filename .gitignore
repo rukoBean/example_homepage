@@ -15,5 +15,3 @@ hugo_stats.json
 Thumbs.db
 *.swp
 
-# Hugo Theme PaperMod
-/themes/PaperMod

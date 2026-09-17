@@ -1,6 +1,7 @@
 title: My Homepage # (填写) 左上角以及浏览器Tab标题
 theme: ["PaperMod"]
-
+#netlify用
+baseURL: "https://yaolu.netlify.app" # (填写) netlify有网址了之后填写即可
 enableRobotsTXT: true # 启用 robots.txt
 enableEmoji: true # 启用 emoji 支持
 minify:

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Project</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 17 Sep 2026 11:06:52 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Thu, 17 Sep 2026 11:06:52 +0800</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Block-type antiferromagnetism in single chain quasi-one-dimensional K3Fe2Se4. Physical Review Letters, accepted (2026).&lt;/li&gt;
+&lt;li&gt;F. Gao, N. Dhale, L.-F. Lin, K. M. Taddei, Y. Zhang, C.D. Cruz, E. Dagotto, B. Lv, Canted antiferromagnetism and spin reorientation in corner-shared single chain quasi-one-dimensional Ba 2 FeSe 3. Physical Review B 1 13, 064418 ( 2026 ).&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 17 Sep 2026 11:00:13 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;自我介绍&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
